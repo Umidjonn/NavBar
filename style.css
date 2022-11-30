@@ -36,13 +36,8 @@ body{
 a{
   color: #fff;
   text-decoration: none;
-  transition: all 2s ease;
 }
 
-a:hover{
-  color: #696969;
-  transition: 1s;
-}
 .nav .logo{
   font-size: 22px;
   font-weight: 500;
